@@ -1,0 +1,34 @@
+.clock .ticks,
+.clock .numbers, 
+.clock .dateRect, 
+.clock .dateText{
+  stroke: red;
+  stroke-width: 1;
+}
+
+.clock line{
+  stroke-linecap: round
+}
+
+.clock .secondHand{
+  stroke: #a00;
+}
+
+.clock .minuteHand{
+  stroke: #999;
+}
+
+.clock .hourHand{
+  stroke: #555;
+}
+
+.clock .border{
+  stroke: #888;
+  fill: whitesmoke;
+}
+
+.clock .pin{
+  stroke: #666;
+  fill: #666;
+}
+

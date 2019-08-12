@@ -1,0 +1,17 @@
+*{
+  user-select: none;
+}
+
+.time{
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+}
+
+.clock{
+  display: block;
+}
+
+.time span{
+  font-weight: bold;
+}
